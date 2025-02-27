@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RecordScreenDemo</string>
+
+    <!-- RecordScreenNotification -->
+    <string name="screen_recording">Screen recording</string>
+    <string name="recording_in_progress">Recording in progress…</string>
+
+    <!-- Main -->
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
 </resources>

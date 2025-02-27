@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.android)
     alias(libs.plugins.kotlin)
     alias(libs.plugins.compose)
+    alias(libs.plugins.parcelize)
 }
 
 android {
@@ -60,4 +61,7 @@ dependencies {
 
     // window
     implementation(libs.window)
+
+    // service
+    implementation(libs.service)
 }
